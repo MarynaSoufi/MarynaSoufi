@@ -76,4 +76,6 @@ I am currently student at [Artevelde university of applied sciences](https://www
 
 ![Maryna's github stats](https://github-readme-stats.vercel.app/api?username=MarynaSoufi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarynaSoufi&langs_count=5)](https://github.com/MarynaSoufi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarynaSoufi)](https://github.com/MarynaSoufi/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarynaSoufi&langs_count=5)](https://github.com/MarynaSoufi/github-readme-stats) -->
