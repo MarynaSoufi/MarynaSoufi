@@ -1,2 +1,1 @@
-# say-hello-MarynaSoufi
-say-hello-MarynaSoufi created by GitHub Classroom
+![my photo](./img/banner1.svg)
